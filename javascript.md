@@ -3,7 +3,8 @@
 ## O que é Java Script?
 JavaScript é uma linguagem de programação usada principalmente para criar interatividade em páginas web. Sua principal função é permitir que desenvolvedores manipulem o conteúdo da página, respondam a eventos de usuário e realizem requisições assíncronas.
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/c1be2ad6-e732-4da1-a37d-14f0f219a54b)
+
 
 ## História e Evolução do JavaScript
 ### 1. **Criação e Primeiros Anos (1995-1999):**
@@ -57,19 +58,22 @@ Funções são blocos de código que realizam uma tarefa específica e podem ser
 
 **1. Declaração de Função**:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/86b47968-1fd0-4172-8849-ed85e98f8a78)
+
 
 **2. Expressão de Função:**
 
 Funções também podem ser definidas como expressões e atribuídas a variáveis.
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/839a8fd5-2368-42c9-9c15-d61af656d5a4)
+
 
 **3. Funções de Setas (Arrow Functions):**
 
 Introduzidas no ECMAScript 6 (ES6), são uma forma mais concisa de definir funções.
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/3e61de9b-0ef8-4370-be9e-1e565d475e0d)
+
 
 ## Ferramentas e Ambientes para Escrever e Testar Código JavaScript
 
